@@ -1,0 +1,14 @@
+/foo/bar = foo class bar method
+
+All in /routes folder
+-Try to search the subfolders too for the routes for a more dynamic approach
+-Automatic unless override?
+
+Do require.js?
+
+model factory. A class that requires all the models in the /model folder
+model class will be in the /framework folder
+
+controller factory . /controller folder
+controller class will be in the /framework folder
+
